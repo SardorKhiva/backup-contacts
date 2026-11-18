@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Резерв контактов</string>
+    <string name="subtitle">Сохраните контакты в файл или восстановите их из файла.</string>
+
+    <string name="btn_export">Сохранить контакты</string>
+    <string name="hint_export">Все контакты запишутся в один файл .vcf. Он открывается на других телефонах и в других программах.</string>
+    <string name="sw_photos">Сохранить и фото (файл будет больше)</string>
+
+    <string name="btn_import">Восстановить контакты</string>
+    <string name="hint_import">Контакты из файла .vcf добавятся в телефон. Уже имеющиеся контакты не дублируются.</string>
+
+    <string name="status_exporting">Сохранение контактов…</string>
+    <string name="status_checking">Проверка файла…</string>
+    <string name="status_importing">Восстановление контактов…</string>
+    <string name="keep_open">Не закрывайте приложение, пока идёт процесс.</string>
+    <string name="btn_cancel">Отмена</string>
+    <string name="status_cancelling">Отмена…</string>
+    <string name="count_format">%1$s / %2$s</string>
+
+    <string name="result_export_ok">Сохранено контактов: %1$s</string>
+    <string name="result_export_file">Файл: %1$s</string>
+    <string name="result_import_ok">Восстановлено контактов: %1$s</string>
+    <string name="result_import_details">Уже были: %1$s. Не удалось восстановить: %2$s.</string>
+    <string name="result_cancelled">Отменено</string>
+    <string name="result_cancelled_import">До отмены восстановлено контактов: %1$s.</string>
+    <string name="result_error">Не удалось выполнить</string>
+    <string name="result_error_hint">Попробуйте ещё раз. Если ошибка повторяется, проверьте, что выбран файл .vcf и в памяти есть свободное место.</string>
+    <string name="result_no_contacts">Нет контактов для сохранения. Проверьте, что они есть в приложении «Контакты».</string>
+    <string name="result_no_cards">В файле не найдено контактов. Выберите файл с расширением .vcf.</string>
+    <string name="btn_share">Отправить файл</string>
+
+    <string name="perm_title">Нужен доступ к контактам</string>
+    <string name="perm_message">Включите разрешение в разделе Настройки → Разрешения → Контакты и повторите попытку.</string>
+    <string name="btn_settings">Открыть настройки</string>
+    <string name="btn_close">Закрыть</string>
+
+    <string name="pick_account_title">Куда восстановить контакты?</string>
+    <string name="account_local">Только на этом телефоне (без аккаунта)</string>
+    <string name="account_google">Google: %1$s</string>
+    <string name="account_device">Память телефона</string>
+    <string name="account_other">%1$s (%2$s)</string>
+
+    <string name="err_no_picker">Не найдено окно выбора файла.</string>
+    <string name="share_title">Отправить файл контактов</string>
+</resources>

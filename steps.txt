@@ -1,0 +1,365 @@
+Thought for 2m 42s
+
+Android kontaktlarini eksport qilish uchun ilova rejalashtirilmoqda.
+
+Ilova talablari va VCF formatini muhokama qilinmoqda.
+
+Tavsiyalar va bir savolni ko‘rib chiqilmoqda.
+
+Vcard formatidagi eksport uchun yengil yozuvchi qurilmoqda.
+
+Import ma’lumotlarini qaysi akkauntga yozish masalasi ko‘rib chiqilmoqda.
+
+Import uchun tizim import oynasini ishga tushirishni ko‘rib chiqilmoqda.
+
+Ilova arxitekturasi va ruxsatlarni rejalashtirilmoqda.
+
+Kontaktlarni import qilish uchun xavfsiz va ixcham usullarni ko‘rib chiqilmoqda.
+
+Kontaktlarni eksport va import uchun tavsiyalarni tayyorlamoqda.
+
+Uzbek tavsiyalar va yengil arxitektura tayyorlanmoqda.
+
+Interfeys va APK hajmi haqida o‘ylanilmoqda.
+
+Import akkauntini va ruxsatlarni ko‘rib chiqilmoqda.
+
+Import hisobi uchun tavsiya va savol tayyorlanmoqda.
+
+Kontaktlarni import qilish uchun qaror va tavsiyalar jamlanmoqda.
+
+Ilova uchun kontaktlarni qurilmaga yozish variantlari tanlanmoqda.
+
+Savol uchun tanlovlar tayyorlanmoqda.
+
+Kontaktlarni VCF formatida saqlash va tiklash variantlari tanlanmoqda.
+
+Vcard kodlash va import ma’lumotlarini tekshirilmoqda.
+
+Import tezligi va kontakt bazasi hajmini baholanmoqda.
+
+Kontakt xotirasi va import tezligi baholanmoqda.
+
+Import qilish uchun saqlash joyini tanlash variantlari ko‘rib chiqilmoqda.
+
+Import qilingan kontaktlar uchun akkaunt tanlovi tahlil qilinmoqda.
+
+Uzbek tilidagi javob uchun sarlavha: Kontaktlarni VCF formatida yozish uchun yengil usul tan
+
+Kontaktlarni import qilish uchun interfeys va tavsiyalar tayyorlanmoqda.
+
+Ixcham tavsiyalar va yakuniy savol tayyorlanmoqda.
+
+Tanlov variantlarini tayyorlanmoqda.
+
+Import qilingan kontaktlar uchun saqlash akkaunti tanlanmoqda.
+
+Interfeys, ikki tugma va yakuniy tavsiyalar tayyorlanmoqda.
+
+[
+Import qilingan kontaktlar qayerga yozilsin?
+Foydalanuvchi tanlasin
+]
+
+Thought for 13m 49s
+
+Uzbek status line: “Foydalanuvchi tanlovi qabul qilindi, kodni tayyorlash davom etmoqda.”
+
+Loyiha kodini fayllarga ajratib tayyorlash.
+
+Mos keladigan skill hujjatini tekshirish.
+
+Android loyiha fayllarini yaratishni rejalashtirish.
+
+Android loyiha fayllarini yaratish va tekshirish.
+
+Android loyiha sozlamalarini va versiyalarini tekshirish.
+
+Android loyiha sozlamalarini va fayllarini moslashtirish.
+
+Android ilovasi uchun sozlamalar va ekran chetlarini tekshirish.
+
+Ekran chetlarini tizim panellari bilan moslashtirish.
+
+Android loyihasi uchun fayllarni yaratishga tayyorlanish.
+
+Uzbek status line for the newest part: the reasoning is settling the default language for the app’s string resources (Uzbek as fallback, with Russian and English
+
+Fayl import va eksport formatini tanlash.
+
+Importga fayl turini va filtrlarni tanlash.
+
+Kontaktlarni eksport qilish uchun ma’lumotlarni o’qish usulini tanlash.
+
+Kontaktlarni o’chirilgan yozuvlar bo’yicha tekshirish.
+
+Kontaktlarni VCF formatida eksport qilish usulini tanlash.
+
+Kontaktlarni VCF formatida o’z yozuvchimiz bilan eksport qilishni tayyorlash.
+
+Kontaktlarni VCF formatida o’zimiz yozish uchun maydonlarni birlashtirish.
+
+Kontakt ismini ma’lumotlar qatoridan o’qish usulini tekshirish.
+
+Kontakt ismini tuzish uchun ma’lumot qatorlarini tartiblash.
+
+Kontaktlarni o’chirilgan yozuvlar bo’yicha qayta tekshirish.
+
+Kontaktlarni ochiriladigan yozuvlardan tozalash va ko’rinadigan guruhlarni tekshirish.
+
+Ko’rinadigan kontaktlarni eksport qilish uchun filtrni tekshirish.
+
+Rasm hajmini va tezligini baholash.
+
+Rasmlarni eksport qilish hajmini tekshirish.
+
+Anniversary va rasm eksportini hisoblash.
+
+Vaqt belgisi uchun maxsus yorliqlarni VCF turlariga moslashtirish.
+
+Uzbek: Android ilovasida moslashtirish uchun yorliqlarni tekshirish.
+
+Android fayllarini kompilyatsiya uchun tekshirishni rejalashtirish.
+
+Android kompilyatsiya uchun fayllarni tekshirish vositalarini sinab ko’rish.
+
+Android kompilyatsiya uchun resurslarni tekshirish vositasini tanlash.
+
+Uzbek: “Asosiy ekran va tugmalarning matnini tayyorlash.”
+
+Hisob tanlash va kontaktlarni qaytarish oqimini rejalashtirish.
+
+Android API darajasidagi hisob ruxsatlarini tekshirish.
+
+Android hisob va kontakt saqlash joylarini tekshirish.
+
+Uzbek kontaktlar uchun hisob variantlarini filtrlash va nomlash.
+
+Hisob variantlarini filtrlash va nomlash ro’yxatini tuzish.
+
+Hisob variantlarini aniqlash usulini baholash.
+
+Hisob variantlarini topish usulini tanlash.
+
+Android ilovasi uchun import yozuvlarini tayyorlash.
+
+Ikki kontakt o’rtasida takrorlanishni aniqlash mezonini tanlash.
+
+Kontaktlarni o’qish va takrorlanishni tekshirish uchun yozuvlarni tayyorlash.
+
+Kontaktlarni import va eksport uchun oqimni progress bilan rejalashtirish.
+
+Importni va eksportni progress bilan boshqarish oqimini tekshirish.
+
+Ilova yangilanishlarini va jarayon holatini boshqarish.
+
+Vaqtinchalik fayllarni xavfsiz yozish usulini tanlash.
+
+Vaqtincha fayl o’qishda QP va qatorlarni birlashtirishni sozlash.
+
+VCF o’qish uchun qatorlarni birlashtirishni sozlash.
+
+Vizual ko’rinish va ekran chetlarini tekshirish.
+
+Uzbek: Kontaktlarni VCF formatiga yozish uchun maydonlarni tekshirish.
+
+Kontaktlarni VCF formatida yozish uchun sinfləri belgilash.
+
+Kontaktlar o’qish uchun maydonlarni va ma’lumot qatorlarini belgilash.
+
+Ma’lumotlarni o’qishda rasm qatorlarini xavfsiz boshqarish.
+
+Rasmlarni kichik o’lchamda xavfsiz o’qishni baholash.
+
+Kontakt ma’lumotlarini qatorlar bo’yicha o’qish va tartiblash.
+
+Kontaktlar uchun yorliqlar va sanalarni VCF formatiga moslashtirish.
+
+Vizitka sanalarini VCF formatiga moslashtirish.
+
+Vizitka maydonlarini VCF formatiga moslashtirishni tekshirish.
+
+Vizitka turlarini VCF yorliqlariga moslashtirish.
+
+Telefon turlarini VCF yorliqlariga moslashtirish.
+
+Telefon turlarini VCF yorliqlariga qayta moslashtirish.
+
+Telefon va email yorliqlarini VCF turlariga moslashtirish.
+
+Vcard o’qish uchun qatorlarni va QP kodlashni tahlil qilish.
+
+Vcard xususiyatlarini qiymatlarini tahlil qilish usulini tanlash.
+
+Uzbek rasmlarni kichiklashtirish va xavfsiz o’qish usulini tanlash.
+
+Vcard xususiyatlarini o’qish uchun parametrlarni tahlil qilish.
+
+Vcard yorliqlarini telefon va email yozuvlariga moslashtirish.
+
+Vcard yorliqlarini hisobga olmasdan import qilish qoidalarini belgilash.
+
+Ism va telefon maydonlarini birlashtirish qoidasini belgilash.
+
+Kontaktlarni ma’lumot qatorlariga yozish uchun maydonlarni belgilash.
+
+Kontaktlarni takrorlanishga qarshi tekshirish mezonini belgilash.
+
+Ilova interfeysi va tugmalar tuzilishini tayyorlash.
+
+Tugmalar va ranglar sxemasini tayyorlash.
+
+Android tugmalari va ranglar uchun vektor belgilarini tanlash.
+
+Android tema va ekran chetlarini sozlash.
+
+Android tema fayllarini API darajalari bo’yicha tekshirish.
+
+Android tema fayllarini qurilma rejimiga moslashtirish.
+
+Android tema fayllarini tizim panellari uchun sozlash.
+
+Manifestga VIEW intent-filtrini qo’shishni baholash.
+
+Manifestga VIEW intent-filtrini qo’shishni tartibga solish.
+
+Fayl ulashish uchun ruxsat va URI grantlarini tekshirish.
+
+Fayl ulashish uchun URI ruxsatlarini tekshirish.
+
+Fayl eksport va import ruxsatlari bilan ishlashni tekshirish.
+
+Eksport va import jarayonida progress ko’rsatkichini rejalashtirish.
+
+Hisob variantlarini ro’yxatini tuzish va tanlash oynasini sozlash.
+
+Hisob variantlarini filtrlash qoidasini belgilash.
+
+Jarayonni to’xtatish va chiqishni boshqarish rejasi.
+
+Jarayonni to’xtatish va chiqish holatini ko’rib chiqish.
+
+Kontaktlarni VCF formatida yozish jarayonini tuzish.
+
+Kontakt eksporti uchun bo’sh natijani tekshirish.
+
+Ma’lumotlar qatorlarini o’qish va ustunlarni tartiblash.
+
+Vizitka maydonlarini VCF yorliqlariga moslashtirish.
+
+Uzbek: VCF yozuvchisi satrlarini va tasma uzunligini tekshirish.
+
+Uzbek: VCF yozuvchisi qatorlarini bo’lish qoidasini tekshirish.
+
+Qatorlarni birlashtirish va kodlashni tekshirish.
+
+Qatorlarni ajratish qoidasini tekshirish.
+
+Kodni VCF qatorlarini o’qish uchun tahlil qilishni sozlash.
+
+Base64 va rasm qatorlarini xavfsiz o’qishni sozlash.
+
+Base64 rasm qatorlarini xavfsiz o’qishni tekshirish.
+
+Base64 rasm ma’lumotlarini xavfsiz o’qishni tekshirish.
+
+Rasm baytlarini kichraytirish va saqlashni sozlash.
+
+Rasm baytlarini kichraytirish funksiyasini sozlash.
+
+Telefon, email va manzil turlarini VCF yorliqlariga moslashtirish.
+
+Vcard bo’sh ismlarni FN bilan to’ldirishni hal qilish.
+
+Kontaktlarni takrorlanishga qarshi tekshirish mezonini belgilash.
+
+Ikki marta o’qishdan oldin kontaktlarni guruhlab yozish.
+
+Uzbek: Hisob variantlarini ro’yxatini tuzish va saqlashni tekshirish.
+
+Hisob variantlarini ro’yxatini tuzish va tanlash.
+
+Hisob variantlarini nomlash va tanlash oynasini tuzish.
+
+Hisob variantlarini tanlash oynasini va ro’yxatini tayyorlash.
+
+Uzbek string resources for the app screens.
+
+Oʻzbek tilidagi satrlarni tayyorlash.
+
+Ilova satrlarini oʻzbek, rus va ingliz tillarida tayyorlash.
+
+Ilova satrlarini oʻzbek, rus va ingliz tillarida tuzishni tekshirish.
+
+Tugmalar va fonlar uchun chizmalarni sozlash.
+
+Android tugmalari va fonlari uchun chizmalarni sozlash.
+
+Android loyihasi uchun build va resurs fayllarini tozalash.
+
+Android loyihasi paketi nomini moslashtirish.
+
+Android loyiha paketi nomini va fayl joylashuvini tekshirish.
+
+Android kompilyatsiyasini tekshirish uchun JVM sinovini rejalashtirish.
+
+Jvm sinov uchun test ma’lumotlarini tayyorlash.
+
+Kontaktlarni o’qish uchun ma’lumot qatorlarini tekshirish.
+
+Kontaktlarni o’qish uchun qatorlarni qayta ishlash.
+
+Vizitka eksportida bo’sh ismlarni hal qilish.
+
+Vizitka bo’sh ismlari uchun N maydonini tanlash.
+
+Kontakt nomini N maydoni uchun bo’sh qolganda to’ldirish.
+
+Uzbek: Import jarayonini bekor qilish va natijani hisoblash.
+
+Import va eksport jarayonini bekor qilish holatini ko’rib chiqish.
+
+Konfiguratsiya o’zgarishlarini ish holatiga qarab boshqarish.
+
+Konfiguratsiya o’zgarishini bo’sh holatda qayta yaratishni tekshirish.
+
+Eksport va import jarayonining natijasini ko’rsatishni tekshirish.
+
+Uzbekcha, qayta ishlash va ulashish natijasini tayyorlash.
+
+Import jarayonini fon oqimida boshlash va natijani ko’rsatish.
+
+Kontaktlar fayli hajmini baholash va hisoblash.
+
+Uzbek status line: Android loyihasi uchun satrlarni va tilni tekshirish.
+
+Vizitka eksportini tekshirish uchun kodni tahlil qilish.
+
+Uzbek: Vizitka eksportidagi ismlar uchun bo’sh maydonlarni tekshirish.
+
+Kontakt eksport kodini VCF yozuvchisi bilan tekshirish.
+
+Vizitka eksportini VCF yozuvchisi bilan tayyorlash.
+
+Vizitka eksporti kodini VCF yozuvchisi bilan yakunlash.
+
+Hisob variantlarini yuklash va tanlash ro’yxatini tuzish.
+
+Uzbek ilovasi uchun hisob variantlarini filtrlash qoidasini tekshirish.
+
+Android ilovasi uchun tema va ranglarni sozlash.
+
+Android uchun tugmalar va matnlar stilini sozlash.
+
+Android ilovasi uchun tema va ekran chetlarini tekshirish.
+
+Konfiguratsiya o’zgarishini tekshirish va ekranni yangilash.
+
+Konfiguratsiya o’zgarishida natijani saqlash va ekranni tiklash.
+
+Matn qatorlari va tarjimalarni tayyorlash.
+
+Uzbek status line: Ilova satrlarini o’zbek, rus va ingliz tillarida joylashtirish.
+
+Android ilovasi uchun satrlar va resurs fayllarini tayyorlash.
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contacts Backup</string>
+    <string name="subtitle">Save your contacts to a file, or restore them from a file.</string>
+
+    <string name="btn_export">Save contacts</string>
+    <string name="hint_export">All contacts are written to one .vcf file. It opens on other phones and in other apps.</string>
+    <string name="sw_photos">Include photos (larger file)</string>
+
+    <string name="btn_import">Restore contacts</string>
+    <string name="hint_import">Contacts from a .vcf file are added to this phone. Contacts you already have are not duplicated.</string>
+
+    <string name="status_exporting">Saving contacts…</string>
+    <string name="status_checking">Checking file…</string>
+    <string name="status_importing">Restoring contacts…</string>
+    <string name="keep_open">Keep the app open until it finishes.</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="status_cancelling">Cancelling…</string>
+    <string name="count_format">%1$s / %2$s</string>
+
+    <string name="result_export_ok">Contacts saved: %1$s</string>
+    <string name="result_export_file">File: %1$s</string>
+    <string name="result_import_ok">Contacts restored: %1$s</string>
+    <string name="result_import_details">Already on the phone: %1$s. Could not restore: %2$s.</string>
+    <string name="result_cancelled">Cancelled</string>
+    <string name="result_cancelled_import">Contacts restored before cancelling: %1$s.</string>
+    <string name="result_error">Could not finish</string>
+    <string name="result_error_hint">Try again. If it keeps failing, check that you picked a .vcf file and that the phone has free storage.</string>
+    <string name="result_no_contacts">No contacts to save. Check that the Contacts app has contacts.</string>
+    <string name="result_no_cards">No contacts found in the file. Pick a file ending in .vcf.</string>
+    <string name="btn_share">Send file</string>
+
+    <string name="perm_title">Contacts permission needed</string>
+    <string name="perm_message">Turn on the permission in Settings → Permissions → Contacts, then try again.</string>
+    <string name="btn_settings">Open settings</string>
+    <string name="btn_close">Close</string>
+
+    <string name="pick_account_title">Where should contacts be restored?</string>
+    <string name="account_local">This phone only (no account)</string>
+    <string name="account_google">Google: %1$s</string>
+    <string name="account_device">Phone storage</string>
+    <string name="account_other">%1$s (%2$s)</string>
+
+    <string name="err_no_picker">No file picker found.</string>
+    <string name="share_title">Send contacts file</string>
+</resources>

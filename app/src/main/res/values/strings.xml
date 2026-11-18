@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kontakt zaxira</string>
+    <string name="subtitle">Kontaktlaringizni faylga saqlang yoki fayldan tiklang.</string>
+
+    <string name="btn_export">Kontaktlarni saqlash</string>
+    <string name="hint_export">Barcha kontaktlar bitta .vcf faylga yoziladi. Bu fayl boshqa telefon va dasturlarda ham ochiladi.</string>
+    <string name="sw_photos">Rasmlarni ham saqlash (fayl kattaroq boʻladi)</string>
+
+    <string name="btn_import">Kontaktlarni tiklash</string>
+    <string name="hint_import">.vcf fayldagi kontaktlar telefonga qoʻshiladi. Allaqachon bor kontaktlar takrorlanmaydi.</string>
+
+    <string name="status_exporting">Kontaktlar saqlanmoqda…</string>
+    <string name="status_checking">Fayl tekshirilmoqda…</string>
+    <string name="status_importing">Kontaktlar tiklanmoqda…</string>
+    <string name="keep_open">Tugaguncha ilovadan chiqmang.</string>
+    <string name="btn_cancel">Bekor qilish</string>
+    <string name="status_cancelling">Bekor qilinmoqda…</string>
+    <string name="count_format">%1$s / %2$s</string>
+
+    <string name="result_export_ok">%1$s ta kontakt saqlandi</string>
+    <string name="result_export_file">Fayl: %1$s</string>
+    <string name="result_import_ok">%1$s ta kontakt tiklandi</string>
+    <string name="result_import_details">Avvaldan bor edi: %1$s. Tiklanmadi: %2$s.</string>
+    <string name="result_cancelled">Bekor qilindi</string>
+    <string name="result_cancelled_import">Bekor qilishdan oldin %1$s ta kontakt tiklangan edi.</string>
+    <string name="result_error">Bajarilmadi</string>
+    <string name="result_error_hint">Qayta urinib koʻring. Muammo takrorlansa, .vcf fayl tanlanganini va xotirada joy borligini tekshiring.</string>
+    <string name="result_no_contacts">Saqlash uchun kontakt topilmadi. Kontaktlar ilovasida kontakt borligini tekshiring.</string>
+    <string name="result_no_cards">Faylda kontakt topilmadi. .vcf kengaytmali fayl tanlang.</string>
+    <string name="btn_share">Faylni yuborish</string>
+
+    <string name="perm_title">Kontaktlarga ruxsat kerak</string>
+    <string name="perm_message">Sozlamalar → Ruxsatlar → Kontaktlar boʻlimida ruxsatni yoqing, keyin qayta urinib koʻring.</string>
+    <string name="btn_settings">Sozlamalarni ochish</string>
+    <string name="btn_close">Yopish</string>
+
+    <string name="pick_account_title">Kontaktlar qayerga tiklansin?</string>
+    <string name="account_local">Faqat shu telefonda (hisobsiz)</string>
+    <string name="account_google">Google: %1$s</string>
+    <string name="account_device">Telefon xotirasi</string>
+    <string name="account_other">%1$s (%2$s)</string>
+
+    <string name="err_no_picker">Fayl tanlash oynasi topilmadi.</string>
+    <string name="share_title">Kontaktlar faylini yuborish</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#0D1411</color>
+    <color name="surface">#16201C</color>
+    <color name="text">#E4EDE9</color>
+    <color name="text_secondary">#9FB0A8</color>
+    <color name="primary">#62D0B6</color>
+    <color name="on_primary">#06251D</color>
+    <color name="outline">#2E423A</color>
+    <color name="success">#6FD08C</color>
+    <color name="error">#F2B8B5</color>
+    <color name="status_bar_legacy">#0D1411</color>
+</resources>

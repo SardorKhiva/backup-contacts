@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F4F7F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text">#15211C</color>
+    <color name="text_secondary">#55635D</color>
+    <color name="primary">#0B6B58</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="outline">#C3D2CB</color>
+    <color name="success">#14733A</color>
+    <color name="error">#B3261E</color>
+    <!-- Android 5-5.1 da holat paneli rangi (yorug' holat paneli belgilari yo'q) -->
+    <color name="status_bar_legacy">#084F41</color>
+</resources>
